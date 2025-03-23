@@ -1,4 +1,4 @@
-![Retail Sales Dashboard](https://github.com/your-username/your-repo-name/blob/main/images/dashboard.png)
+![Retail Sales Dashboard](https://github.com/meghawadhwani20/Retail-Sales-Analysis/blob/main/Dashboard.png?raw=true)
 # **Retail Sales Analysis: End-to-End Python + SQL + Excel Project**
 
 ## ** Project Overview**
